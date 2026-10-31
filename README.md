@@ -1,4 +1,4 @@
-# Brain Inbox (companion app for Grok Bot Brain Starter)
+# Brain Inbox (companion app for AI Brain Starter)
 
 A tiny private endpoint you own. Your iPhone Shortcut sends captures to it, and it saves each one as a
 Markdown file in your brain repo's `inbox/` folder. It runs on Vercel's free plan.
